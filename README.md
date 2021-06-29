@@ -1,4 +1,7 @@
 # xss-payload
-This is all I got from scraping, collecting from google &amp; some are got from me...
-Total XSS Payload is 2069.
-And I also add the Disadvantage of xss-attack.
+
+This is all I got 7857... 
+
+And I also add the Disadvantage of the XSS attack.
+
+Now, It's change & more than 7000 payloads...
